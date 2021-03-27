@@ -14,6 +14,8 @@ In this repository we collect references, blog posts, videos, etc. which are rel
 
 #### Videos
 
+* [Python's Class Development Toolkit by Raymond Hettinger@PyCon US 2013](https://youtu.be/HTLu2DFOdTg)
+
 #### Written Material
 
 ### Python Core Libraries
@@ -21,6 +23,14 @@ In this repository we collect references, blog posts, videos, etc. which are rel
 #### Videos
 
 #### Written Material
+
+### Unit Tests in Python
+
+#### Videos
+
+#### Written Material
+
+* [Effective Python Testing With Pytest by Dane Hillard@realpython](https://realpython.com/pytest-python-testing/)
 
 ## Popular Python Packages
 
